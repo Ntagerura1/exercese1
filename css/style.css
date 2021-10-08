@@ -1,0 +1,14 @@
+.maindiv{
+    background: rgb(250, 244, 244);
+    width: 17%;
+    height: 20px;
+    margin: 1% 80% 120%;
+}
+.maindiv a {
+    /* float: left; */
+    color: #3a16db;
+    /* text-align: center; */
+    /* padding: 14px 16px; */
+    /* text-decoration: none; */
+    font-size: 20px;
+  }
